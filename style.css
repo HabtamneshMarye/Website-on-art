@@ -1,0 +1,485 @@
+.first-page{
+    background-image: url('image/house-1.jpeg');
+    background-repeat: no-repeat;
+    background-size: 800px 150px;
+}
+
+#header-paragraph{
+border-style: solid;
+background-color: 	#32CD32;
+text-align: center;
+color: white;
+font-weight: bold;
+font-size: xx-large;
+height: 50px;
+} 
+
+#house-material{
+    width: 99.7%;
+    height: 900px;
+    margin-top: -35px;
+    margin-left: 3px;
+} 
+/* #nav-paragraph{
+margin-top: -20px;
+margin-left: -290px;
+font-size: 50px;
+font-weight: bolder;
+}
+.main-navigation{
+    display: flex;
+    margin-top: -850px;
+    gap: 10%;
+    color: white;
+    margin-left: 20%;
+    font-weight: 900;
+    font-size: 20px;
+}
+.text-center{
+ text-align: center;
+ margin-left: 120px;
+}
+h1{
+   font-size: 90px;
+   font-weight: 90px; 
+   margin-top: 100px;
+   color: white;
+}
+#sub-heading{
+font-size: 20px;
+color: white;
+font-weight: bold;
+font-size: 28px;
+}
+.contact-us{
+width: 300px;
+height: 80px;
+font-size: 25px;
+font-family: 'Courier New';
+border-radius: 20px;
+border-color: white;
+}
+
+.short-text{
+    margin-bottom: 90px;
+
+} */
+
+hr{
+border-top: 2px solid black;
+}
+#sub-topic{
+    text-align: center;
+    font-size: 50px;
+}
+.second-section{
+    display: flex;
+}
+#lounge-1{
+    width: 700px;
+    height: 790px;
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.description-page{
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+#highlighted-word{
+font-size: 40px;
+color: #5faa5f;
+}
+h2{
+    font-size: 60px;
+}
+#highlighted-word-2{
+    font-size: 23px;
+    width: 700px;
+    color: rgb(151, 148, 148);
+}
+.click-buttons{
+    display: flex;
+    gap: 5%;
+    margin-top: 90px;
+}
+#know-more{
+width: 400px;
+height: 80px;
+border-radius: 20px;
+font-size: 25px;
+background-color: #49eb49;
+border-color: white;
+color: white;
+font-weight: bold;
+margin-left: -20px;
+
+}
+#contact-us{
+    width: 400px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 25px;
+    border-color: rgb(110, 99, 99);
+    }
+.third-section{
+    margin-top: 150px;
+    display: flex;
+    gap: 9%;
+    border-style: solid;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    margin-left: -9px;
+    background-color: rgb(212, 247, 250);
+    border-color: white;
+}
+.sub-description{
+    color: gray;
+    font-weight: lighter;
+    font-size: 20px;
+}
+h3{
+    font-size: 25px;
+}
+.first-order{
+    display: flex;  
+}
+
+#winning-part{
+    width: 90px;
+    height: 80px;
+}
+
+.second-order{
+    display: flex;
+}
+
+#verification{
+    width: 90px;
+    height: 80px;
+}
+.third-order{
+    display: flex;
+}
+
+#delivery{
+    width: 90px;
+    height: 80px;
+}
+.fourth-order{
+    display: flex;
+}
+
+#user-friendly{
+    width: 90px;
+    height: 80px;
+}
+.texture-products{
+    display: flex;
+    gap: 2%;
+    margin-left: 55px;
+    margin-top: 90px;
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+}
+#sub-heading-2{
+text-align: center;
+font-size: 25px;
+font-weight: lighter;
+color: gray;
+}
+#way-1{
+height: 650px;
+width: 550px;
+border-radius: 20px;
+
+}
+#way-2{
+height: 650px;
+width: 550px;
+border-radius: 20px;
+}
+#way-3{
+height: 650px;
+width: 550px;
+border-radius: 20px;
+}
+h5{
+    font-size: 50px;
+    margin-left: 30px;
+}
+#sub-header{
+font-size: 20px;
+margin-left: 30px;
+margin-top: -30px;
+color: rgb(124, 120, 120);
+}
+#right-arrow{
+    margin-left: 450px;
+   margin-bottom: -170px;
+}
+h6{
+   text-align: center;
+   font-size: 60px; 
+}
+#sub-heading-6{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -70px;
+    color: gray;
+}
+.company-logos{
+    display: flex;
+    gap: 12%;
+    margin-top: 90px;
+}
+.first-company{
+display: flex;
+border-style: solid;
+border-color: rgb(216, 208, 208);
+border-radius: 15px;
+height: 200px;
+width: 480px;
+}
+#logo-1{
+    width: 200px;
+    height: 190px;
+
+}
+.sub-text-1{
+color: gray;
+}
+#logo-descrip{
+margin-top: 50px;
+font-size: 25px;
+}
+.second-company{
+    display: flex;
+    border-style: solid;
+    border-color: rgb(216, 208, 208);
+    border-radius: 15px;
+    height: 200px;
+    width: 500px;
+    margin-left: -10px;
+    }
+#logo-2{
+    width: 330px;
+    height: 200px;
+    margin-left: -0px;
+}
+.sub-text-2{
+    color: gray;
+    }
+#logo-descrip-2{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: -50px;
+    }
+.third-company{
+    display: flex;
+    border-style: solid;
+    border-color: rgb(216, 208, 208);
+    border-radius: 15px;
+    height: 200px;
+    width: 450px;
+    }
+#logo-3{
+width: 250px;
+height: 180px;
+margin-left: 0px;
+margin-top: 9px;
+}
+.sub-text-3{
+    color: gray;
+    }
+#logo-descrip-3{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-top: 50px;
+    }
+
+i{
+font-size: 40px;
+}
+#printing-time{
+font-size: 30px;
+font-weight: bold;
+width: 500px;
+
+}
+.rate-description{
+margin-left: 190px;
+margin-top: 150px;
+align-items: center;
+display: flex;
+gap: 10%;
+}
+#long-desc{
+    font-size: 20px;
+    color: rgb(109, 100, 100);
+}
+
+#comfo-1{
+    width: 700px;
+    height: 550px;
+    border-radius: 30px;
+    margin-left: -90px;
+    margin-top: 20px;
+}
+.companies{
+    display: flex;
+    gap: 2%;
+    margin-top: 150px;
+}
+#c-logo-1{
+    width: 250px;
+    height: 150px;
+ 
+}
+#c-logo-2{
+    width: 170px;
+    height: 100px;
+    margin-top: 30px;
+}
+#c-logo-3{
+    width: 280px;
+    height: 170px;
+}
+#c-logo-4{
+    width: 280px;
+    height: 170px;
+}
+#c-logo-5{
+    width: 180px;
+    height: 130px;
+    margin-top: 18px;
+}
+#c-logo-6{
+    width: 280px;
+    height: 170px;
+}
+#c-logo-7{
+    width: 280px;
+    height: 100px;
+    margin-top: 35px;
+}
+#main-header{
+text-align: center;
+font-size: 60px;
+font-weight: bold;
+margin-top: 200px;
+}
+#sub-main-header{
+text-align: center;
+font-size: 30px;
+color: rgb(92, 88, 88);
+margin-top: 90px;
+}
+.fasion-design{
+    display: flex;
+    gap: 2%;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+#design-1{
+    width: 580px;
+    height: 800px;
+    border-radius: 20px;
+}
+#design-2{
+    width: 580px;
+    height: 800px;
+    border-radius: 20px;
+}
+#design-3{
+    width: 580px;
+    height: 800px;
+    border-radius: 20px;
+}
+#design-4{
+    width: 100%;
+    height: 800px;
+    margin-top: 20px;
+
+}
+#main-location{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+   
+}
+#sub-location{
+    text-align: center;
+    font-size: 25px;
+font-weight: lighter;
+margin-top: -30px;
+color: rgb(99, 95, 95);
+
+}
+
+.connection{
+border-style: solid;
+width: 500px;
+height: 500px;
+border-color: rgb(211, 198, 198);
+background-color: rgb(247, 231, 231);
+border-radius: 20px;
+margin-top: 100px;
+margin-left: 200px;
+
+}
+.info{
+    background-image:url("image/map-1.jpg");
+    background-repeat: no repeat;
+    background-size:cover;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+#sub-contact{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.contact-1{
+    display: flex;
+}
+#phone-contact{
+    margin-left: 90px;
+    margin-top: 1px;
+    font-size: 20px;
+}
+.contact-2{
+    display: flex;
+    margin-top: 40px;
+}
+#address-contact{
+    margin-left: 90px;
+    margin-top: 1px;
+    font-size: 20px;
+}
+.contact-3{
+    display: flex;
+    margin-top: 20px;
+}
+#time-opening{
+    margin-left: 90px;
+    margin-top: 1px;
+    font-size: 20px;
+}
+.bottom-footer{
+  display: flex;
+  margin-top: 200px;
+  gap: 8%;
+  border-style: solid;
+  background-color: rgb(71, 71, 95);
+}
+#rp-logo{
+width: 200px;
+}
+
+
+    
