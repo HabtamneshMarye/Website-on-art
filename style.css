@@ -481,5 +481,23 @@ margin-left: 200px;
 width: 200px;
 }
 
+.bottom-footer{
+    margin-top: 10%;
+    display: flex;
+    gap: 9%;
+    background-color: #242231;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 50px;
+   }
+   
+   .list{
+    list-style-type: none;
+    align-items: start;
+    line-height: 3;
+   }
+
 
     
